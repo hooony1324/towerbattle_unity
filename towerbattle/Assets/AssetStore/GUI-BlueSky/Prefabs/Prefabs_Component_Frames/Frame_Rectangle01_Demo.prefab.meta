@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b91671bb740ae4bf4b9c344f082fbaf5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177699
+  packageName: GUI - BlueSky
+  packageVersion: 2.1.1
+  assetPath: Assets/Layer Lab/GUI-BlueSky/Prefabs/Prefabs_Component_Frames/Frame_Rectangle01_Demo.prefab
+  uploadId: 712402

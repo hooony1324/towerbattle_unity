@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c797046c1a60426cab6eba1f6524201
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177699
+  packageName: GUI - BlueSky
+  packageVersion: 2.1.1
+  assetPath: Assets/Layer Lab/GUI-BlueSky/Prefabs/Prefabs_Component_UI_Etc/Notify01_Icon-Group.prefab
+  uploadId: 712402
